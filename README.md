@@ -11,3 +11,8 @@ Python_Basics
 * Converting Types
 * Working with Lists
 
+## Functions_Basics 
+
+* Basic Functions
+* Methods 
+
